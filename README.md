@@ -10,15 +10,15 @@ the filtered audio is obtained and its corresponding FFT is plotted.
 
 
 ## Learning Outcomes-
-1 Through this project I learned multiple things such as plotting audio file 
+1. Through this project I learned multiple things such as plotting audio file 
 in time and frequency domains.
-2 I also got know terms like filter order, cut-off frequency and its 
+2. I also got know terms like filter order, cut-off frequency and its 
 corresponding python functions.
-3 I got know various libraries such as matplot.lib.pylot ,scipy ,winsound 
+3. I got know various libraries such as matplot.lib.pylot ,scipy ,winsound 
 and their corresponding functions for plotting, playing sound file etc.
-4 I also saw functions in python which are used to calculate the FFT and to 
+4. I also saw functions in python which are used to calculate the FFT and to 
 set the filters.
-5 I got the know the flow of program to remove unwanted noise from 
+5. I got the know the flow of program to remove unwanted noise from 
 audio
 
 
