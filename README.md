@@ -5,9 +5,7 @@ frequency is given to eliminate the noise. Then after applying all three filters
 the filtered audio is obtained and its corresponding FFT is plotted.
 
 ## Results
-![image](https://user-images.githubusercontent.com/71623089/211007107-9c48c639-2fc1-4c33-8b5a-e9c0134c24eb.png)
-![image](https://user-images.githubusercontent.com/71623089/211007155-8a244bc1-f208-41d9-ae6f-d77ee97177cc.png)
-![image](https://user-images.githubusercontent.com/71623089/211007197-0b65571f-1301-4af4-9846-7651c9b3c723.png)
+![image](https://user-images.githubusercontent.com/71623089/211007107-9c48c639-2fc1-4c33-8b5a-e9c0134c24eb.png),![image](https://user-images.githubusercontent.com/71623089/211007155-8a244bc1-f208-41d9-ae6f-d77ee97177cc.png),![image](https://user-images.githubusercontent.com/71623089/211007197-0b65571f-1301-4af4-9846-7651c9b3c723.png)
 
 
 ## Learning Outcomes-
